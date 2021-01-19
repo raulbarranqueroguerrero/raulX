@@ -1,11 +1,9 @@
 body {
   margin: 0;
-  font-size: 600px;
   font-family: "Amatic SC",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
 }
 
 code {
