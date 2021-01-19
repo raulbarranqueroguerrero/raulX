@@ -1,7 +1,7 @@
 function Navbar() {
     return (
         <nav>
-            <h1>YO VIVO NAVEGANDO</h1>
+            <h1>Raulx.com</h1>
         </nav>
     )
 }
