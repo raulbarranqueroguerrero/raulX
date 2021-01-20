@@ -1,10 +1,10 @@
 {
   "main": {
-    "name":"RaulX",
+    "name":"Raul",
     "description":"I build inspiring pages using React. Full Stack developer devote to design and convenience. Currently based in Valencia, Spain",
     "image":"profilepic.jpg",
-    "bio":"I am an artist at heart, with an entrepreneurial spirit, a knack for fine design, and passionate of avant-garde technology. ",
-    "contactmessage":"If you have something inspiring to offer, lets make it real; if not, you can just say 'hi'!",
+     "bio":"I am an artist at heart, with an entrepreneurial spirit, a knack for fine design, and passionate of avant-garde technology. After years diving deep into the GD and communication industry, I now apply my palete to build fresh and fashionable React Apps.",
+      "contactmessage":"Something inspiring in hands? Lets make it real! Besides, you can always say 'hi'!  👋",
     "email": "raul.barranquero@gmail.com",
     "phone": "+34 664 280 040",
     "github":"https://github.com/raulbarranqueroguerrero",
@@ -31,7 +31,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Find here some of the technologies I use everyday",
+    "skillmessage":"Find here some of the technologies I use everyday:",
     "education":[
       {
         "school":"University?",
