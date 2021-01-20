@@ -5,8 +5,8 @@ class Header extends Component {
   render() {
 
     if(this.props.data){
-       var project = this.props.data.project;
-       var github = this.props.data.github;
+      var project = this.props.data.project;
+      var github = this.props.data.github;
       var name = this.props.data.name;
       var description= this.props.data.description;
       // let city= this.props.data.address.city;
@@ -34,7 +34,7 @@ class Header extends Component {
       <div className="row banner">
       
          <div className="banner-text">
-            <h1 className="responsive-headline">{name}</h1>
+            <h1 className="responsive-headline">I'm raulX</h1>
             <h3>{description}.</h3>
             <hr />
             <ul className="social">

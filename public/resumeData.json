@@ -1,42 +1,27 @@
 {
   "main": {
-    "name":"raulX",
-    "description":"I build dream pages using React. Focused on design, providing the best user experience. Fostered to create your project",
+    "name":"Raulx Barranquero Guerrero",
+    "description":"I build inspiring pages using React. Full Stack developer devote to design and convenience. Currently based in Valencia, Spain",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"I am an artist at heart, with an entrepreneurial spirit, a knack for fine design, and passionate of avant-garde technology. ",
+    "contactmessage":"If you have something inspiring to offer, lets make it real; if not, you can just say 'hi'!",
+    "email": "raul.barranquero@gmail.com",
+    "phone": "+34 664 280 040",
+    "github":"https://github.com/raulbarranqueroguerrero",
+    "project":"https://github.com/raulbarranqueroguerrero/yo-vivo-navegando.git",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
+      "city":"Valencia",
+      "state":"Spain",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.raulx.com",
+    "resumedownload":"http://raulx.com",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -46,7 +31,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Find here some of the technologies I use everyday",
     "education":[
       {
         "school":"University?",
@@ -77,32 +62,32 @@
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"React",
+        "level":"70%"
       },
       {
-        "name":"VueJs",
+        "name":"JavaScript",
         "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
       },
       {
         "name":"CSS",
         "level":"90%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"Git",
+        "level":"90%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"Node.js",
+        "level":"55%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Redux",
+        "level":"75%"
+      },
+      {
+        "name":"C",
+        "level":"45%"
       }
     ]
   },
