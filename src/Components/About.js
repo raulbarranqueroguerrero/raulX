@@ -28,7 +28,7 @@ class About extends Component {
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span><br />
+						   <span>{name} Barranquero Guerrero</span><br />
                      <span>{email}</span><br />
 						   <span>{phone}</span><br />
 						   <span>{city}, {state}</span><br />
