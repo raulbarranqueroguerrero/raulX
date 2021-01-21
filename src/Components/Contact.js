@@ -79,7 +79,7 @@ class Contact extends Component {
 
 					   <h4>Address and Phone</h4>
 					   <p className="address">
-						   {name} Barranquero Guerrero<br />
+						   {name}x Barranquero Guerrero<br />
 						   {email} <br />
 						   <span>{phone}</span>
 						   {city}, {state}<br />
