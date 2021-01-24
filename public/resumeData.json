@@ -94,10 +94,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Eloquent Quote Generator",
+        "category":"A beautiful inspiring quote app",
+        "image":"eloquent-quote-generator.png",
+        "url":"https://boring-pike-eecd1e.netlify.app"
       },
       {
         "title":"Fury Fighting Gear",
