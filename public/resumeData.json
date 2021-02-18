@@ -4,7 +4,7 @@
     "description":"I build inspiring pages using React. Full Stack developer devoted to design and convenience. Currently based in Valencia, Spain",
     "image":"profilepic.jpg",
      "bio":"I am an artist at heart, with an entrepreneurial spirit, a knack for fine design, and passionate of avant-garde technology. After years diving deep into the GD and communication industry, I now apply my palete to build fresh and fashionable React Apps.",
-      "contactmessage":"Something inspiring in hands? Let's make it real! |✨| Not really? Just say 'hi'!  👋",
+      "contactmessage":"Something inspiring in hands? Let's make it real! ✨",
     "email": "raul.barranquero@gmail.com",
     "phone": "+34 664 280 040",
     "github":"https://github.com/raulbarranqueroguerrero",
@@ -94,28 +94,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Eloquent Quote Generator",
-        "category":"Beautiful inspiring quote app",
-        "image":"eloquent-quote-generator.png",
-        "url":"https://boring-pike-eecd1e.netlify.app"
+        "title":"Eloquent Quote",
+        "category":"Beautiful inspiring quote generator app. Blue notes radiate it's  Media Player. Take a minute and take it all in.",
+        "image":"portfolio-img-eloquentquote.png",
+        "url":"https://eloquentquote.netlify.app/"
       },
       {
         "title":"Makeme Meme",
-        "category":"Mobile app meme generator",
-        "image":"makeMeMeme.png",
+        "category":"Have a laugh creating your own meme. Take a trip to the past and get a kick out it's responsive retro style.",
+        "image":"portfolio-img-makemememe.png",
         "url":"https://makemememe.netlify.app"
       },
       {
-        "title":"Pomodoro Timer",
-        "category":"Test your progress and boost your productivity",
-        "image": "pomodoro.png",
-        "url":"https://cranky-newton-95dafe.netlify.app"
+        "title":"Lemon Timer",
+        "category":"Tune  in with lemon timer and track your progress to lead the habit.",
+        "image": "portfolio-img-lemon.png",
+        "url":"https://lemontimer.netlify.app/"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"portfolio-img-raulx.png",
+        "url":"http://www.raulx.com"
       }
     ]
   }

@@ -26,7 +26,7 @@ class Contact extends Component {
 
             <div className="ten columns">
 
-                  <p className="lead">{message}</p>
+                  <p style={{letterSpacing: '.5rem', wordSpacing: '.5rem'}}className="lead">{message}</p>
 
             </div>
 
