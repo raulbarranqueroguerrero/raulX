@@ -63,15 +63,15 @@
     "skills":[
       {
         "name":"React",
-        "level":"70%"
-      },
-      {
-        "name":"JavaScript",
-        "level":"55%"
+        "level":"75%"
       },
       {
         "name":"CSS",
         "level":"90%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"60%"
       },
       {
         "name":"Git",
@@ -79,15 +79,15 @@
       },
       {
         "name":"Node.js",
-        "level":"55%"
+        "level":"70%"
       },
       {
-        "name":"Redux",
-        "level":"75%"
+        "name":"Next.jS",
+        "level":"60%"
       },
       {
-        "name":"C",
-        "level":"45%"
+        "name":"React Native",
+        "level":"70%"
       }
     ]
   },
