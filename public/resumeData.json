@@ -16,7 +16,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.raulx.com",
-    "resumedownload":"http://raulx.com",
+    "resumedownload":"https://firebasestorage.googleapis.com/v0/b/host-medias-b0b6d.appspot.com/o/CV_Barranquero_Raul_2021.pdf?alt=media&token=3d18e8aa-5327-4539-8c2b-f5b6f77279ba",
     "social":[
       {
         "name":"linkedin",
@@ -89,7 +89,7 @@
       },
       {
         "title":"Lemon Timer",
-        "category":"Tune  in with lemon timer and track your progress to lead the habit.",
+        "category":"Tune in with lemon timer and track your progress to lead the habit.",
         "image": "portfolio-img-lemon.png",
         "url":"https://lemontimer.netlify.app/"
       },
