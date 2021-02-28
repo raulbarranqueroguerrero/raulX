@@ -1,3 +1,2 @@
-Hi!  I'm Raul and this is my resume!
+#React JS Resume Web App
 
-![alt text](http://url/to/img.jpg)
