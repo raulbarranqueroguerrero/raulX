@@ -1,3 +1,3 @@
 Hi!  I'm Raul and this is my resume!
 
-![Screenshot](img.jpg)
+![alt text](http://url/to/img.jpg)
