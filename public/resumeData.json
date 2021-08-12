@@ -48,34 +48,28 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Sopra Steria",
+        "title":"React Frontend Developer ",
+        "years":"February 2021 - Present",
+        "description":"Developments with React JS modern features: hooks, life-cycle methods; managing status and APIs with Redux Saga; testing with Jest-Enzyme; Azure DevOps & Amazon Web Service. "
       }
     ],
     "skills":[
       {
-        "name":"React",
-        "level":"75%"
+        "name":"JavaScript (E6)",
+        "level":"70%"
       },
       {
-        "name":"GIT",
-        "level":"90%"
+        "name":"React JS",
+        "level":"80%"
       },
       {
         "name":"CSS",
-        "level":"85%"
+        "level":"75%"
       },
       {
         "name":"Node.js",
-        "level":"65%"
+        "level":"60%"
       }
     ]
   },
