@@ -9,10 +9,11 @@ class Header extends Component {
       var github = this.props.data.github;
       var name = this.props.data.name;
       var description= this.props.data.description;
-      // // let city= this.props.data.address.city;
-      // // var networks= this.props.data.social.map(function(network){
-      // //   return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
-      // // })
+      var city = this.props.data.address.city;
+      var country = this.props.data.address.state;
+      /*var networks= this.props.data.social.map(function(network){
+         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+      })*/
     }
 
     return (
@@ -34,10 +35,10 @@ class Header extends Component {
       <div className="row banner">
       
          <div className="banner-text">
-            <h1 className="responsive-headline">{name}X</h1>
+            <h1 style={{paddingBottom: '2rem'}} className="responsive-headline">{name}X</h1>
             <h3>{description}.</h3>
+            <h6>{city}, {country}</h6>
             <hr />
-            
             <ul className="social">
                <a target="_blank" href={project} className="button btn project-btn"><i className="fa fa-book"></i>Project</a>
                <a target="_blank" href={github} className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
