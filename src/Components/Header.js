@@ -8,7 +8,8 @@ class Header extends Component {
       var project = this.props.data.project;
       var github = this.props.data.github;
       var name = this.props.data.name;
-      var description= this.props.data.description;
+      var descriptionShort= this.props.data.descriptionShort;
+      var descriptionLong= this.props.data.descriptionLong;
       var city = this.props.data.address.city;
       var country = this.props.data.address.state;
       /*var networks= this.props.data.social.map(function(network){
@@ -36,7 +37,8 @@ class Header extends Component {
       
          <div className="banner-text">
             <h1 style={{paddingBottom: '2rem'}} className="responsive-headline">{name}X</h1>
-            <h3>{description}.</h3>
+            <h3>{descriptionShort}.</h3>
+            <h3>{descriptionLong}.</h3>
             <h6>{city}, {country}</h6>
             <hr />
             <ul className="social">

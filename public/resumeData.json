@@ -1,7 +1,8 @@
 {
   "main": {
     "name":"Raul",
-    "description":"I build inspiring web apps using React. Full Stack developer devoted to design and convenience. Currently based in Valencia, Spain",
+    "descriptionShort":"I build inspiring apps using React",
+    "descriptionLong": "Full Stack developer devoted to design and convenience",
     "image":"profilepic.png",
      "bio":"I am an artist at heart, with an entrepreneurial spirit, a knack for fine design, and passionate of avant-garde technology. After years diving deep into the GD and communication industry, I now apply my palete to build fresh and fashionable React Apps.",
       "contactmessage":"Something inspiring in hands? Let's make it real! ✨",
@@ -52,6 +53,12 @@
         "title":"React Frontend Developer ",
         "years":"February 2021 - Present",
         "description":"Developments with React JS modern features: hooks, life-cycle methods; managing status and APIs with Redux Saga; testing with Jest-Enzyme; Azure DevOps & Amazon Web Service. "
+      },
+      {
+        "company":"Freelance",
+        "title":"Fullstack Web Developer ",
+        "years":"August 2020 - February 2021",
+        "description":"Web Porject Manager for Naturchem S.L. Design, development, deployment and maintenance of digital portfolio with React JS. "
       }
     ],
     "skills":[
